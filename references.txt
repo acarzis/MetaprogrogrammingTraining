@@ -1,0 +1,4 @@
+References. Giving credit to those who deserve it ...
+
+I based this project on what I read here:
+https://www.codeproject.com/Articles/5297814/Metaprogramming-in-Cplusplus-A-Gentle-Introduction - author:  honey the codewitch
